@@ -2,7 +2,7 @@
   "name": "cnn",
   "version": "1.0.0",
   "scripts": {
-    "generate model": "python make_model.py",
-    "check model": "python recognize_one_digit_number.py"
+    "generate model": "python generate_learned_model.py",
+    "recognize model": "python recognize_one_digit_number.py"
   }
 }
